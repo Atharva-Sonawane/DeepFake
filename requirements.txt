@@ -1,0 +1,25 @@
+# Core
+torch>=1.12
+torchvision>=0.13
+torchaudio>=0.12
+
+# Preprocessing & image/video handling
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+Pillow
+
+# Face detection / extraction
+retinaface
+facenet-pytorch
+
+# Utils
+albumentations
+seaborn
+
+# Jupyter (optional for notebooks)
+jupyter
+notebook
