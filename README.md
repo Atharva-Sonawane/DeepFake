@@ -25,7 +25,7 @@ deepfake-detection/
 
 │── train.py # Training script
 
-│── evaluate.py # Evaluation script
+│── finetune_b5.py # Evaluation script
 
 │── inference.py # Run detection on new image/video
 
